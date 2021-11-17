@@ -1,0 +1,11 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "dbConnectionString": "Server=.;Database=eroom;Trusted_Connection=false;Integrated Security=false; User Id=sa; Password=123@abcdeF"
+}
