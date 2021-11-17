@@ -251,9 +251,3 @@ paket-files/
 .idea/
 *.sln.iml
 
-Logs/*
-/POSEIDON/Poseidon.DAL/Migrations
-/POSEIDON/Poseidon.Api/Poseidon.Api.xml
-/POSEIDON/Poseidon.Api/Poseidon.Admin.Api.xml
-/POSEIDON/Poseidon.Api/out/*
-POSEIDON/Poseidon.Api/Poseidon.Api.xml
